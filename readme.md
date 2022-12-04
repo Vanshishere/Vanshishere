@@ -9,4 +9,4 @@
 
 ![zeeeWTFGitHub stats](https://github-readme-stats.vercel.app/api?username=zeeeWTF&show_icons=true&theme=tokyonight)
 
-  [![HitCount](https://hits.dwyl.com/zeeeWTF/zeeeWTF.svg?style=flat-square&show=unique)](http://hits.dwyl.com/zeeeWTF/zeeeWTF)
+[![Hits](https://hits.link/hits?url=https://github.com/zeeeWTF&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
