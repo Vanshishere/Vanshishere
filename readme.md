@@ -1,10 +1,8 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1060604810010824775/1078469928501379192/Screenshot_8-PhotoRoom.png)](https://google.com/)
-<h1 align="center">Hey, Welcome To Vansh's Page 👋</h1>
+14, Skidder.
+
+![VanshishereGitHub stats](https://github-readme-stats.vercel.app/api?username=Vanshishere&show_icons=true&theme=tokyonight)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="Vanshishere" /> </p>
-
-- 🌌 Current Project - Soon...
-
-- 👨‍💻 My Projects - [https://github.com/Vanshishere?tab=repositories](https://github.com/Vanshishere?tab=repositories)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vanshishere&theme=onedark&show_icons=true)
 
