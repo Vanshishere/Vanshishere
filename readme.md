@@ -1,8 +1,8 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1060604810010824775/1078469928501379192/Screenshot_8-PhotoRoom.png)](https://google.com/)
 <h1 align="center">Hey, Welcome To Vansh's Page 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="ghostmanex" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="Vanshishere" /> </p>
 
-- 👨‍💼 Current Project - Soon...
+- 🌌 Current Project - Soon...
 
 - 👨‍💻 My Projects - [https://github.com/Vanshishere?tab=repositories](https://github.com/Vanshishere?tab=repositories)
 
